@@ -2,7 +2,7 @@
 
 Bar chart displaying United States Gross Domestic Product over the years.
 
-[Live Application](US-GDP-bar-chart-dlzl.surge.sh)
+[Live Application](http://us-gdp-bar-chart-dlzl.surge.sh)
 
 ## Project Goals
 
