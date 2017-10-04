@@ -1,0 +1,41 @@
+.content {
+  font-family: 'Mukta', sans-serif;
+  text-align: center;
+}
+
+/*CHART*/
+.axis path,
+.axis line {
+  fill: none;
+  shape-rendering: crispEdges;
+  stroke: #000;
+}
+
+.axis text {
+  font-family: 'Mukta', sans-serif;
+}
+
+.bar {
+  fill: #1ba1e2;
+}
+
+.bar:hover {
+  fill: #f09609;
+}
+
+.description {
+  font-size: 0.7em;
+}
+
+.toolTip {
+  background-color: rgb(240,150,9);
+  display: none;
+  font-family: 'Mutka', sans-serif;
+  font-size: 12px;
+  height: auto;
+  min-width: 80px;
+  opacity: 0.9;
+  padding: 14px;
+  position: absolute;
+}
+/*END CHART*/

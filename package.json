@@ -1,0 +1,15 @@
+{
+  "name": "bar-chart",
+  "version": "1.0.0",
+  "description": "Roguelike dungeon crawler where player must find 3 key pieces, ascend the stairway, fight the boss!",
+  "main": "d3.v3.min.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
